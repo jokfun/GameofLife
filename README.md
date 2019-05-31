@@ -14,8 +14,6 @@ keyboard
 
 ### Runing
 
-Explain what these tests test and why
-
 ```
 python gameoflife.py board.txt
 ```
